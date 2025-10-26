@@ -1,4 +1,3 @@
-```markdown
 # Telegram Bot Tutorial
 
 Un bot Telegram simple et éducatif construit avec Python et la bibliothèque `python-telegram-bot`. Ce projet démontre les fonctionnalités de base d'un bot Telegram, y compris les commandes, les menus interactifs et la gestion des messages.
